@@ -7,9 +7,7 @@ A website created through an interactive introduction to web development and the
 N/A
 
 ## Usage
-To have a single webpage to access my notes gathered throughout the bootcamp. By using command+option+I (macOS) or control+shift+I (windows) you can pull up the DevTools console enabling you to review the code I learned to create the webpage. See what that looks like in the screenshot below:
-
-![alt text](assets/screenshot.jpeg)
+To have a single webpage to access my notes gathered throughout the bootcamp. By using command+option+I (macOS) or control+shift+I (windows) you can pull up the DevTools console enabling you to review the code I learned to create the webpage.
 
 ## Credits
 
